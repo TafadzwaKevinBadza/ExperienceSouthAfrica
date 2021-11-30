@@ -10,7 +10,6 @@ Live Application link: https://experiencesa.netlify.app/
 `RapidAPI Travel Advisor` 
 `GoogleMaps API`
 `GooglePlacesAPI`
-`OpenWeatherMapAPI`
 
 ### Tech Stack 
 `ReactJS`
